@@ -7,7 +7,7 @@
            revision="refs/tags/android-5.1.1_r18" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="https://github.com/"
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
