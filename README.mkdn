@@ -4,3 +4,14 @@ CopperheadOS
 See the [CopperheadOS Alpha
 announcement](https://copperhead.co/2015/08/21/alpha) for installation and
 building instructions.
+Getting Started
+
+To get started with Android/copperhead-security, you'll need to get familiar with Git and Repo.
+
+To initialize your local repository using the copperhead-security trees, use a command like this:
+
+repo init -u git://github.com/copperhead-security/android.git -b cm-12.1
+
+Then to sync up:
+
+repo sync
