@@ -22,7 +22,7 @@ To keep our bug tracker progressing in the right direction, utilize the followin
 * Are you able to help squash this bug? If so, please inform us!
 * Are you running the [current version of CopperheadOS](https://copperhead.co/android/downloads)?
 
-##<a name="Debugging"></a>
+##<a name="Debugging">Debugging</a>
 
 To get an idea of what caused the bug, please ensure you report to us the following information while issuing a bug:
 * Steps To Reproduce The Bug
