@@ -2,6 +2,8 @@ This is the bug tracker for both [CopperheadOS](https://copperhead.co/android/) 
 https://copperhead.co/ website. The source code for the operating system is kept under the
 [CopperheadOS organization](https://github.com/copperheados).
 
+Contribution to our CopperheadOS project is as follows:
+
 #Contribution
 
 Thank you for your interest in helping support the CopperheadOS project. Our goal with this project is to secure everyday communications utilizing the Android OS and we thrive to be in sync with our community. We're
