@@ -4,6 +4,10 @@ https://copperhead.co/ website. The source code for the operating system is kept
 
 Contribution to our CopperheadOS project is as follows:
 
+# Building
+
+Follow the steps detailed [here](https://copperhead.co/android/docs/building)
+
 #Contribution
 
 Thank you for your interest in helping support the CopperheadOS project. Our goal with this project is to secure everyday communications utilizing the Android OS and we thrive to be in sync with our community. We're
