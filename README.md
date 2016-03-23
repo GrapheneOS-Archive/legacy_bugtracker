@@ -11,7 +11,7 @@ Follow the steps detailed [here](https://copperhead.co/android/docs/building)
 #Contribution
 
 Thank you for your interest in helping support the CopperheadOS project. Our goal with this project is to secure everyday communications utilizing the Android OS and we thrive to be in sync with our community. We're
-always looking to receive valid and descriptive bug reports to continue to secure Android.
+always looking to receive valid and descriptive bug reports to continue to secure Android. More importantly, we're eager to get people on our team to help us continue our vision: [Apply!](mailto:team@copperhead.co)
 
 ## Feature Requests
 
@@ -23,6 +23,8 @@ that the [feature hasn't already been planned](https://github.com/copperhead/bug
 To keep our bug tracker progressing in the right direction, utilize the following steps before reporting a bug:
 
 * Has the [bug been reported already](https://github.com/copperhead/bugtracker/search?utf8=%E2%9C%93&q=relevant+bug&type=Code)?
+* Keep each issue to **one** bug report.
+* Is your issue an [Android issue](https://code.google.com/p/android/issues/list)?
 * Is this a bug relevant with the project?
 * Do you have the [required information](#Debugging) to help us process the bug?
 * Are you able to help squash this bug? If so, please inform us!
