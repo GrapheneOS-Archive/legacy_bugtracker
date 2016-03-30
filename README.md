@@ -1,3 +1,5 @@
+![Copperhead](https://copperhead.co/assets/logo_icon.png)
+
 ## Welcome to CopperheadOS
 
 This is the bug tracker for both [CopperheadOS](https://copperhead.co/android/) and the
