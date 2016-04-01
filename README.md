@@ -28,7 +28,7 @@ this feature in our OS [please let us know!](mailto:team@copperhead.co)
 
 ##<a name="Porting">Porting To Other Devices/Operating Systems</a>
 
-CopperheadOS is tuned to **work on Nexus devices only** and
+CopperheadOS only supports Nexus devices and
 there are no plans to expand device support beyond the Nexus line.
 If someone is interested in porting CopperheadOS to a device, they are free to do so however
 it will not have official Copperhead support. We do not have the resources to cover multiple source trees.
