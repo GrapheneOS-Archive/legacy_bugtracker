@@ -1,14 +1,16 @@
+![Copperhead](https://copperhead.co/assets/logo_icon.png)
+
+## Welcome to CopperheadOS
+
 This is the bug tracker for both [CopperheadOS](https://copperhead.co/android/) and the
 https://copperhead.co/ website. The source code for the operating system is kept under the
 [CopperheadOS organization](https://github.com/copperheados).
-
-Contribution to our CopperheadOS project is as follows:
 
 # Building
 
 Follow the steps detailed [here](https://copperhead.co/android/docs/building)
 
-#Contribution
+# Contribution
 
 Thank you for your interest in helping support the CopperheadOS project. Our goal with this project is to secure everyday communications utilizing the Android OS and we thrive to be in sync with our community. We're
 always looking to receive valid and descriptive bug reports to continue to secure Android. More importantly, we're eager to get people on our team to help us continue our vision: [Apply!](mailto:team@copperhead.co)
@@ -16,7 +18,15 @@ always looking to receive valid and descriptive bug reports to continue to secur
 ## Feature Requests
 
 As the CopperheadOS project continues to grow, we find more and more users are requesting features as part of our solution. While helpful, if you're looking to request a feature please ensure
-that the [feature hasn't already been planned](https://github.com/copperhead/bugtracker/labels/enhancement). Redundant feature requests only slow things down!
+that the [feature hasn't already been planned](https://github.com/copperhead/bugtracker/labels/enhancement). Redundant feature requests only slow things down! Most importantly if you're capable of implementing
+this feature in our OS [please let us know!](mailto:team@copperhead.co)
+
+##<a name="Porting">Porting To Other Devices/Operating Systems</a>
+
+CopperheadOS only supports Nexus devices and
+there are no plans to expand device support beyond the Nexus line.
+If someone is interested in porting CopperheadOS to a device, they are free to do so however
+it will not have official Copperhead support. We do not have the resources to cover multiple source trees.
 
 ## Reporting issues
 
