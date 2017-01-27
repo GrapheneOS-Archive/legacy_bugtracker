@@ -1,5 +1,5 @@
 [![recurring donation for CopperheadOS!](https://img.shields.io/badge/donate-patreon-green.svg)](https://patreon.com/copperheadOS)
-[![donate to Copperhead](https://img.shields.io/badge/donate-paypal-green.svg)](paypal.me/donatecopperheadOS)
+[![donate to Copperhead](https://img.shields.io/badge/donate-paypal-green.svg)](https://paypal.me/donatecopperheadOS)
 [![donate Bitcoin to Copperhead](https://img.shields.io/badge/donate-bitcoin-green.svg)](https://blockchain.info/address/1DbRzEwZar9T7KF6tE8zUxKmuj9VJhD5U6)
 [![#copperhead on OFTC IRC](http://img.shields.io/badge/oftc-join%20%23copperhead-green.svg?style=flat)](https://kiwiirc.com/client/irc.oftc.net/copperhead)
 
