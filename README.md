@@ -24,7 +24,7 @@ If you're looking to request a feature please ensure
 that the [feature hasn't already been planned](https://github.com/copperhead/bugtracker/labels/enhancement). Redundant feature requests only slow things down! Most importantly if you're capable of implementing
 this feature in our OS [please let us know!](mailto:team@copperhead.co)
 
-##<a name="Porting">Porting To Other Devices/Operating Systems</a>
+## <a name="Porting">Porting To Other Devices/Operating Systems</a>
 
 CopperheadOS only supports Nexus devices and
 there are no plans to expand device support beyond the Nexus/Pixel line.
@@ -41,7 +41,7 @@ To keep our bug tracker progressing in the right direction, utilize the followin
 * Are you able to help squash this bug? If so, please inform us!
 * Are you running the [current version of CopperheadOS](https://copperhead.co/android/downloads)?
 
-##<a name="Debugging">Debugging</a>
+## <a name="Debugging">Debugging</a>
 
 To get an idea of what caused the bug, please ensure you report to us the following information while issuing a bug:
 * Steps To Reproduce The Bug
